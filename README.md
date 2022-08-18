@@ -1,3 +1,8 @@
+A simple todo app to learn about react basics, state, compoenents and working with map , filter find functions sof javascript
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
